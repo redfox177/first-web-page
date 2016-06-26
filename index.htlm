@@ -10,7 +10,7 @@
 <style>
     body {
         background color: azure;
-        color:aqua;
+        color:black;
         text-align:center; 
             
     }
