@@ -2,16 +2,21 @@
  <html>
 <title>
     My First Website
-</title>
-<body>
-   <h1>This is my first github page/>
+</title>title>
+ <head>
+     <title>Hello World!</title>
+ </head>
+ <body>
+ 	<h1>First gub hu page</h1>
  </body>
+
 <style>
     body {
         background color: azure;
         color:black;
         text-align:center; 
-        }
+            
+    }
+    
 </style>
-
 </html>
