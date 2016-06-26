@@ -1,11 +1,10 @@
- <!doctype html>
  <html>
 <title>
     My First Website
-</title>title>
+ </title>title>
  
  <body>
- 	<h1>First github page</h1>
+ 	  <h1>First github page</h1>
  </body>
 
 <style>
