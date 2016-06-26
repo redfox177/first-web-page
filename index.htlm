@@ -1,14 +1,11 @@
  <!doctype html>
-2 <html>
+ <html>
 <title>
     My First Website
-</title>title>
-3 <head>
-4     <title>Hello World!</title>
-5 </head>
-6 <body>
-7 	<h1>First gub hu page</h1>
-8 </body>
+</title>
+ <body>
+ 	<h1>First gut hub page</h1>
+ </body>
 
 <style>
     body {
