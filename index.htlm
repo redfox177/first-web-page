@@ -1,0 +1,22 @@
+ <!doctype html>
+2 <html>
+<title>
+    My First Website
+</title>title>
+3 <head>
+4     <title>Hello World!</title>
+5 </head>
+6 <body>
+7 	<h1>First gub hu page</h1>
+8 </body>
+
+<style>
+    body {
+        background color: azure;
+        color:aqua;
+        text-align:center; 
+            
+    }
+    
+</style>
+</html>
