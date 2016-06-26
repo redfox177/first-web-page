@@ -3,17 +3,15 @@
 <title>
     My First Website
 </title>
- <body>
- 	<h1>First git hub page</h1>
+<body>
+   <h1>This is my first github page/>
  </body>
-
 <style>
     body {
         background color: azure;
         color:black;
         text-align:center; 
-            
-    }
-    
+        }
 </style>
+
 </html>
